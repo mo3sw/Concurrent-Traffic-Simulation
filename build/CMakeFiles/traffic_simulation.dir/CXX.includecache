@@ -11,6 +11,12 @@ iostream
 -
 random
 -
+chrono
+-
+thread
+-
+stdlib.h
+-
 TrafficLight.h
 /home/workspace/Concurrent-Traffic-Simulation/src/TrafficLight.h
 
